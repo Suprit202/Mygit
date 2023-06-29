@@ -1,0 +1,2 @@
+#New to Git
+- hello there! It's my first code for this platform
